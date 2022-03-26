@@ -1,6 +1,6 @@
 ---
-id: 1
-image: https://www.w3schools.com/w3images/sandwich.jpg
+id: 2
+image: Bilder-blogg/Bild11.png
 title: The Perfect Sandwich, A Real NYC Classic
 description: "Just some random text, lorem ipsum text praesent tincidunt ipsum lipsum."
 ---

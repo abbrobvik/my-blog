@@ -21,7 +21,7 @@
       </div>
 
       <!-- Navbar -->
-        <div class="hidden md:block text-white bg-gray-500 bg-opacity-50 p-6 rounded-xl">
+        <div class="hidden md:block text-white  bg-gray-500 bg-opacity-50 p-6 rounded-xl">
           <ul class="flex space-x-8 text-sm font-sans">
             <li><nuxt-link to="/" class="">Home</nuxt-link></li>
             <li><nuxt-link to="blogg" class="">Blogg</nuxt-link></li>
