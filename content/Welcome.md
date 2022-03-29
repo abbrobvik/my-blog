@@ -1,9 +1,9 @@
 ---
-id: 1
-image: /Bilder-blogg/Bild1.png
-title: The Perfect Sandwich, A Real NYC Classic
-description: "Just some random text, lorem ipsum text praesent tincidunt ipsum lipsum."
+title: Welcome to my blog!
+description: "This is could be an art project or just a normal blog, but are created for a school project."
 ---
+
+This is could be an art project or just a normal blog, but are created for a school project
 
 Empower your NuxtJS application with `@nuxtjs/content` module: write in a `content/` directory and fetch your Markdown, JSON, YAML and CSV files through a MongoDB like API, acting as a **Git-based Headless CMS**.
 
