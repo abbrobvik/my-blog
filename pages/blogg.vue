@@ -18,7 +18,7 @@ export default {
   },
   methods: {
     goToPost(id) {
-      this.$router.push('/post-details/'+id)
+      this.$router.push('/post/'+id)
     }
   }
 }
