@@ -14,7 +14,7 @@
 				<div class="flex h-full bg-white rounded overflow-hidden shadow-lg">
 					<div class="flex flex-wrap no-underline hover:no-underline">
 						<div class="w-full md:w-2/3 rounded-t">
-							<img src="https://source.unsplash.com/collection/494263/800x600" class="h-full w-full shadow">
+							<img :src="randomImage" class="bild shadow" >
 						</div>
 					</div>
 				</div>
@@ -39,6 +39,16 @@ export default {
       posts
     }
   },
+  data() {
+    return {
+      random: Math.round(19*Math.random())
+    }
+  },
+  computed: {
+    randomImage() {
+      return `Bilder-blogg/Bild${this.random}.png`
+    }
+  },
   methods: {
     goToDish(id) {
       this.$router.push('/post-details/'+id)
@@ -48,5 +58,8 @@ export default {
 </script>
 
 <style>
-
+.bild{
+  height: 500px;
+  width: 1000px;
+}
 </style>
