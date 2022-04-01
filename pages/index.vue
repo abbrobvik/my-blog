@@ -42,7 +42,6 @@
 </template>
 
 <script>
-import Article from "../components/article.vue"
 export default {
     async asyncData({ $content }) {
         let posts = await $content("posts").sortBy("id", "desc").limit(3).without(["body"]).fetch();
@@ -66,8 +65,7 @@ export default {
         goToPost(id) {
             this.$router.push("/post/" + id);
         }
-    },
-    components: { Article }
+    }
 }
 </script>
 
