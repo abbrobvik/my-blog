@@ -1,24 +1,27 @@
 <template>
   <div class="container px-4 md:px-0 max-w-6xl mx-auto -mt-32 m-10">
 
-			<div class="mx-0 sm:mx-6 md:mt-20">
-				<div class="bg-gray-200 w-full text-xl md:text-2xl text-gray-800 leading-normal rounded-t">
+		<div class="mx-0 sm:mx-6 md:mt-20">
+			<div class="bg-gray-200 w-full text-xl md:text-2xl text-gray-800 leading-normal rounded-t">
 
 				<!--start view-->
-				<div class="flex h-full bg-white rounded overflow-hidden shadow-lg">
-					<div class="flex flex-wrap no-underline hover:no-underline">
+				<div class="h-full bg-white rounded overflow-hidden shadow-lg">
+					<div class="no-underline hover:no-underline">
 						<div class="w-full rounded-t">
 							<img :src="randomImage" class="bild md:h-52 h-32 w-full object-cover" >
 						</div>
-            <!-- <div class=" flex flex-wrap justify-center mx-auto"> -->
-              <h1 class="mt-8 font-serif flex flex-wrap justify-center ">{{Welcome.title}}</h1>
-              <p class="font-sans text-base mt-24">{{Welcome.description}}</p>
-            <!-- </div> -->
-
+            <div class="flex justify-center">
+              <div class="w-full md:w-1/2">
+                <h1 class="mt-8 font-serif flex flex-wrap justify-center ">{{Welcome.title}}</h1>
+                <p class="font-sans text-base my-4">{{Welcome.description}}</p>
+              </div>
+            </div>
 					</div>
 				</div>
       </div>
     </div>
+
+
 
     <!-- Newest-post -->
     <div class="flex flex-wrap justify-center ">

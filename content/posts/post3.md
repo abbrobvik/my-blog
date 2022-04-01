@@ -1,6 +1,6 @@
 ---
 id: 3
-image: Bilder-blogg/Bild10.png
+image: /Bilder-blogg/Bild10.png
 title: The Perfect Sandwich, A Real NYC Classic
 description: "Just some random text, lorem ipsum text praesent tincidunt ipsum lipsum."
 ---
