@@ -11,7 +11,7 @@
 							<img :src="randomImage" class="bild md:h-52 h-32 w-full object-cover" >
 						</div>
             <div class="flex justify-center">
-              <div class="w-full md:w-1/2">
+              <div class="w-full md:w-1/2 mx-4">
                 <h1 class="mt-8 font-serif flex flex-wrap justify-center ">{{Welcome.title}}</h1>
                 <p class="font-sans text-base my-4">{{Welcome.description}}</p>
               </div>
@@ -25,7 +25,7 @@
 
     <!-- Newest-post -->
     <div class="flex flex-wrap justify-center ">
-      <div class="md:mt-10 mt-4 py-4 md:px-96 px-10 rounded overflow-hidden shadow-lg" style="background-color: #f1f1f1;">
+      <div class="md:mt-10 mt-4 py-4 md:px-96 px-4 rounded overflow-hidden shadow-lg" style="background-color: #f1f1f1;">
         <h1 class="font-serif text-xl">Newest posts - down below </h1>
       </div>
     </div>
