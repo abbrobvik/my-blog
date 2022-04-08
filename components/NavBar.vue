@@ -24,8 +24,8 @@
         <div class="hidden md:block text-white  bg-gray-500 bg-opacity-50 p-6 rounded-xl">
           <ul class="flex space-x-8 text-sm font-sans">
             <li><nuxt-link to="/" class="">Home</nuxt-link></li>
-            <li><nuxt-link to="blogg" class="">Blogg</nuxt-link></li>
-            <li><nuxt-link to="test-blogg" class="">Features</nuxt-link></li>
+            <li><nuxt-link to="/blogg" class="">Blogg</nuxt-link></li>
+            <li><nuxt-link to="#" class="">Features</nuxt-link></li>
             <li><nuxt-link to="#" class="">FAQ</nuxt-link></li>
             <li><nuxt-link to="#" class="">Contact</nuxt-link></li>
             <!-- <li><a href="#" class="cta bg-blue-500 hover:bg-blue-600 px-3 py-2 rounded text-white font-semibold">Sign Up</a></li> -->

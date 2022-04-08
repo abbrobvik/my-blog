@@ -1,6 +1,5 @@
 <template>
   <div class="container px-4 md:px-0 max-w-6xl mx-auto -mt-32 m-10">
-
 		<div class="mx-0 sm:mx-6 md:mt-20 mt-28">
 			<div class="bg-gray-200 w-full text-xl md:text-2xl text-gray-800 leading-normal rounded-t">
 
@@ -8,7 +7,7 @@
 				<div class="h-full bg-white rounded overflow-hidden shadow-lg">
 					<div class="no-underline hover:no-underline">
 						<div class="w-full rounded-t">
-							<img :src="randomImage" class="bild md:h-52 h-32 w-full object-cover" >
+							<img :src="randomImage" class="bild md:h-52 h-32 w-full object-cover">
 						</div>
             <div class="flex justify-center">
               <div class="w-full md:w-1/2 mx-4">
@@ -20,8 +19,6 @@
 				</div>
       </div>
     </div>
-
-
 
     <!-- Newest-post -->
     <div class="flex flex-wrap justify-center ">
@@ -70,9 +67,9 @@ export default {
 </script>
 
 <style>
-.bild{
-  height: 500px;
-  width: 100%;
-}
+  .bild{
+    height: 500px;
+    width: 100%;
+  }
 
 </style>
