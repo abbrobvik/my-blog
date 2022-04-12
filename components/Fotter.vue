@@ -1,8 +1,8 @@
 <template>
   <footer class="text-center text-white " style="background-color: #f1f1f1;">
-  <div class="container pt-9 inset-x-0 bottom-0">
+  <div class=" pt-9 inset-x-0 bottom-0">
     <div class="flex justify-center mb-9">
-      <a href="#!" class="mr-9 text-gray-500 hover:text-gray-900">
+      <a href="https://www.facebook.com/" class="mr-9 text-gray-500 hover:text-gray-900">
         <svg
           aria-hidden="true"
           focusable="false"
@@ -19,7 +19,7 @@
           ></path>
         </svg>
       </a>
-      <a href="#!" class="mr-9 text-gray-500 hover:text-gray-900">
+      <a href="https://twitter.com/?lang=en" class="mr-9 text-gray-500 hover:text-gray-900">
         <svg
           aria-hidden="true"
           focusable="false"
@@ -36,7 +36,7 @@
           ></path>
         </svg>
       </a>
-      <a href="#!" class="mr-9 text-gray-500 hover:text-gray-900">
+      <a href="https://www.google.com/" class="mr-9 text-gray-500 hover:text-gray-900">
         <svg
           aria-hidden="true"
           focusable="false"

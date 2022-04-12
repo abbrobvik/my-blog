@@ -11,7 +11,7 @@
 						  </div>
               <!-- Text för post -->
               <div class="flex justify-center">
-                <div class="w-full mx-4">
+                <div class="w-full md:w-2/3 mx-4">
                   <h1 class="mt-8 font-serif flex flex-wrap justify-center m-4">{{post.title}}</h1>
                   <p class="font-sans text-base m-4">{{post.description}}</p>
                   <nuxt-content :document="post" class="m-4 font-sans text-base"></nuxt-content>
