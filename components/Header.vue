@@ -4,7 +4,7 @@
     <div class=" h-32 md:h-60 lg:h-96">
       <div class="hero-image flex wrap justify-center items-center h-32 md:h-60  lg:h-96 rounded-b-none shadow-lg overflow-hidden rounded-t flex-1">
         <h1 class="font-serif md:text-5xl sm:text-base text-white">
-          <a href="/">Robins - Blogg</a>
+          <a href="/">Robins - Blog</a>
           </h1>
       </div>
     </div>
