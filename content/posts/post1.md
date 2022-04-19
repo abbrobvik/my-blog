@@ -1,8 +1,8 @@
 ---
 id: 1
-image: /Bilder-blogg/Bild1.png
-title: The Perfect Sandwich, A Real NYC Classic
-description: "Just some random text, lorem ipsum text praesent tincidunt ipsum lipsum."
+image: /Bilder-blogg/Bild6.png
+title: How about snow?
+description: "Not all people like snow, but do you? Should there be snow or not? Al think different."
 ---
 
 Empower your NuxtJS application with `@nuxtjs/content` module: write in a `content/` directory and fetch your Markdown, JSON, YAML and CSV files through a MongoDB like API, acting as a **Git-based Headless CMS**.

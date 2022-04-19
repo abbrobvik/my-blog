@@ -24,7 +24,7 @@
         <div class="hidden md:block text-white  bg-gray-500 bg-opacity-50 p-6 rounded-xl">
           <ul class="flex space-x-8 text-sm font-sans">
             <li><nuxt-link to="/" class="">Home</nuxt-link></li>
-            <li><nuxt-link to="/blogg" class="">Blogg</nuxt-link></li>
+            <li><nuxt-link to="/blogg" class="">Blog</nuxt-link></li>
             <!-- <li><nuxt-link to="#" class="">Features</nuxt-link></li> -->
             <li><nuxt-link to="/faq" class="">FAQ</nuxt-link></li>
             <!-- <li><nuxt-link to="#" class="">Contact</nuxt-link></li> -->
@@ -66,7 +66,7 @@
 
         <ul class="divide-y font-sans">
           <li><a href="/" @click="isOpen = false" class="my-4 inline-block">Home</a></li>
-          <li><a href="/blogg" @click="isOpen = false" class="my-4 inline-block">Blogg</a></li>
+          <li><a href="/blogg" @click="isOpen = false" class="my-4 inline-block">Blog</a></li>
           <!-- <li><a href="#" @click="isOpen = false" class="my-4 inline-block">Features</a></li> -->
           <li><a href="/faq" @click="isOpen = false" class="my-4 inline-block">FAQ</a></li>
           <!-- <li><a href="#" @click="isOpen = false" class="my-4 inline-block">Contact</a></li> -->

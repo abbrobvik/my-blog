@@ -1,8 +1,8 @@
 ---
 id: 3
 image: /Bilder-blogg/Bild10.png
-title: The Perfect Sandwich, A Real NYC Classic
-description: "Just some random text, lorem ipsum text praesent tincidunt ipsum lipsum."
+title: An early morning or a late evening?
+description: "Is it possible to have day and evening at the same time? "
 ---
 
 Empower your NuxtJS application with `@nuxtjs/content` module: write in a `content/` directory and fetch your Markdown, JSON, YAML and CSV files through a MongoDB like API, acting as a **Git-based Headless CMS**.

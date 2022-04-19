@@ -1,8 +1,8 @@
 ---
 id: 2
 image: /Bilder-blogg/Bild11.png
-title: The Perfect Sandwich, A Real NYC Classic
-description: "Just some random text, lorem ipsum text praesent tincidunt ipsum lipsum."
+title: Good evenings
+description: "Sometimes it can be nice to have a beautiful evening with sunset and warm air next to you."
 ---
 
 Empower your NuxtJS application with `@nuxtjs/content` module: write in a `content/` directory and fetch your Markdown, JSON, YAML and CSV files through a MongoDB like API, acting as a **Git-based Headless CMS**.
