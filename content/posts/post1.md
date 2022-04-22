@@ -5,16 +5,7 @@ title: How about snow?
 description: "Not all people like snow, but do you? Should there be snow or not? Al think different."
 ---
 
-Empower your NuxtJS application with `@nuxtjs/content` module: write in a `content/` directory and fetch your Markdown, JSON, YAML and CSV files through a MongoDB like API, acting as a **Git-based Headless CMS**.
+For my own opinion, I do not like snow so much, precisely because it gets so cold.
 
-## Writing content
-
-Learn how to write your `content/`, supporting Markdown, YAML, CSV and JSON: https://content.nuxtjs.org/writing.
-
-## Fetching content
-
-Learn how to fetch your content with `$content`: https://content.nuxtjs.org/fetching.
-
-## Displaying content
-
-Learn how to display your Markdown content with the `<nuxt-content>` component directly in your template: https://content.nuxtjs.org/displaying.
+Then it gets so dark and gloomy, it's much nicer when it's summer, but then it should not be too hot either.
+Some people like snow precisely because there are some special activities you can perform at these times.

@@ -5,16 +5,6 @@ title: Good evenings
 description: "Sometimes it can be nice to have a beautiful evening with sunset and warm air next to you."
 ---
 
-Empower your NuxtJS application with `@nuxtjs/content` module: write in a `content/` directory and fetch your Markdown, JSON, YAML and CSV files through a MongoDB like API, acting as a **Git-based Headless CMS**.
-
-## Writing content
-
-Learn how to write your `content/`, supporting Markdown, YAML, CSV and JSON: https://content.nuxtjs.org/writing.
-
-## Fetching content
-
-Learn how to fetch your content with `$content`: https://content.nuxtjs.org/fetching.
-
-## Displaying content
-
-Learn how to display your Markdown content with the `<nuxt-content>` component directly in your template: https://content.nuxtjs.org/displaying.
+Precisely because you can relax sometimes and just live life.
+Be able to leave everything behind and have the wonderful moments in life sometimes.
+Many people forget this, but really it is quite important.
