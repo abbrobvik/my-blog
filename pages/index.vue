@@ -12,7 +12,6 @@
             <div class="flex justify-center">
               <div class="w-full md:w-1/2 mx-4 mb-4">
                 <h1 class="mt-8 font-serif flex flex-wrap justify-center ">{{Welcome.title}}</h1>
-                <!-- <p class="font-sans text-base my-4">{{Welcome.description}}</p> -->
               </div>
             </div>
 					</div>
